@@ -1,2 +1,2 @@
-# planting
+# baekjoon
 for studying 
